@@ -1,2 +1,0 @@
-hello everyone i am here to learn about the github
-print('Hello from Python')
